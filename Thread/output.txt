@@ -1,0 +1,96 @@
+Time: 0
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 1
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 2
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 3
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 4
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 5
+Clients: (0, 6, 3)(3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 6
+Clients: (3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: [(0, 6, 3)]
+Queue 1: []
+Time: 7
+Clients: (3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: [(0, 6, 2)]
+Queue 1: []
+Time: 8
+Clients: (3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: [(0, 6, 1)]
+Queue 1: []
+Time: 9
+Clients: (3, 10, 2)(1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 10
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: [(3, 10, 2)]
+Queue 1: []
+Time: 11
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: [(3, 10, 1)]
+Queue 1: []
+Time: 12
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 13
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 14
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 15
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 16
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 17
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 18
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 19
+Clients: (1, 20, 2)(2, 21, 3)
+Queue 0: []
+Queue 1: []
+Time: 20
+Clients: (2, 21, 3)
+Queue 0: [(1, 20, 2)]
+Queue 1: []
+Time: 21
+Clients: 
+Queue 0: [(1, 20, 1)]
+Queue 1: [(2, 21, 3)]
+Time: 22
+Clients: 
+Queue 0: []
+Queue 1: [(2, 21, 2)]
+Time: 23
+Clients: 
+Queue 0: []
+Queue 1: [(2, 21, 1)]
